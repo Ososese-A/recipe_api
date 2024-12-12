@@ -1,0 +1,720 @@
+[
+    {
+        "id": 1,
+        "title": "Spaghetti Carbonara",
+        "ingredients": [
+            "Spaghetti",
+            "Eggs",
+            "Parmesan Cheese",
+            "Pancetta",
+            "Black Pepper",
+            "Salt"
+        ],
+        "instructions": [
+            "Boil spaghetti.",
+            "Cook pancetta.",
+            "Mix eggs and Parmesan.",
+            "Combine all with spaghetti.",
+            "Season with salt and pepper."
+        ],
+        "prepTime": "15 min",
+        "cookTime": "15 min",
+        "servings": 4
+    },
+    {
+        "id": 2,
+        "title": "Chicken Tikka Masala",
+        "ingredients": [
+            "Chicken Breast",
+            "Yogurt",
+            "Onion",
+            "Tomatoes",
+            "Garlic",
+            "Ginger",
+            "Garam Masala",
+            "Cumin",
+            "Coriander",
+            "Turmeric",
+            "Paprika",
+            "Salt",
+            "Cream"
+        ],
+        "instructions": [
+            "Marinate chicken in yogurt and spices.",
+            "Cook onion, garlic, and ginger.",
+            "Add tomatoes and spices.",
+            "Add marinated chicken.",
+            "Simmer and add cream."
+        ],
+        "prepTime": "30 min",
+        "cookTime": "1 hr",
+        "servings": 4
+    },
+    {
+        "id": 3,
+        "title": "Classic Beef Stew",
+        "ingredients": [
+            "Beef Chuck",
+            "Carrots",
+            "Potatoes",
+            "Onion",
+            "Beef Broth",
+            "Tomato Paste",
+            "Garlic",
+            "Thyme",
+            "Bay Leaf",
+            "Salt",
+            "Black Pepper"
+        ],
+        "instructions": [
+            "Brown beef chunks.",
+            "Cook onion and garlic.",
+            "Add tomato paste and beef.",
+            "Add broth, herbs, and vegetables.",
+            "Simmer until tender."
+        ],
+        "prepTime": "20 min",
+        "cookTime": "2 hrs",
+        "servings": 6
+    },
+    {
+        "id": 4,
+        "title": "Vegetable Stir Fry",
+        "ingredients": [
+            "Broccoli",
+            "Bell Peppers",
+            "Carrots",
+            "Snap Peas",
+            "Garlic",
+            "Ginger",
+            "Soy Sauce",
+            "Sesame Oil",
+            "Cornstarch",
+            "Water",
+            "Salt"
+        ],
+        "instructions": [
+            "Stir-fry garlic and ginger.",
+            "Add vegetables.",
+            "Mix soy sauce, sesame oil, cornstarch, and water.",
+            "Add sauce to vegetables.",
+            "Cook until vegetables are tender."
+        ],
+        "prepTime": "15 min",
+        "cookTime": "10 min",
+        "servings": 4
+    },
+    {
+        "id": 5,
+        "title": "Chocolate Chip Cookies",
+        "ingredients": [
+            "Butter",
+            "Sugar",
+            "Brown Sugar",
+            "Eggs",
+            "Vanilla Extract",
+            "Flour",
+            "Baking Soda",
+            "Salt",
+            "Chocolate Chips"
+        ],
+        "instructions": [
+            "Cream butter and sugars.",
+            "Add eggs and vanilla.",
+            "Mix dry ingredients.",
+            "Combine wet and dry ingredients.",
+            "Fold in chocolate chips.",
+            "Bake."
+        ],
+        "prepTime": "20 min",
+        "cookTime": "10 min",
+        "servings": 24
+    },
+    {
+        "id": 6,
+        "title": "Caesar Salad",
+        "ingredients": [
+            "Romaine Lettuce",
+            "Croutons",
+            "Parmesan Cheese",
+            "Caesar Dressing"
+        ],
+        "instructions": [
+            "Chop lettuce.",
+            "Add croutons and Parmesan.",
+            "Toss with Caesar dressing."
+        ],
+        "prepTime": "10 min",
+        "cookTime": "0 min",
+        "servings": 4
+    },
+    {
+        "id": 7,
+        "title": "Guacamole",
+        "ingredients": [
+            "Avocado",
+            "Lime Juice",
+            "Onion",
+            "Cilantro",
+            "Tomatoes",
+            "Salt"
+        ],
+        "instructions": [
+            "Mash avocado.",
+            "Mix with lime juice, onion, cilantro, and tomatoes.",
+            "Season with salt."
+        ],
+        "prepTime": "10 min",
+        "cookTime": "0 min",
+        "servings": 6
+    },
+    {
+        "id": 8,
+        "title": "Pancakes",
+        "ingredients": [
+            "Flour",
+            "Baking Powder",
+            "Salt",
+            "Sugar",
+            "Milk",
+            "Eggs",
+            "Butter"
+        ],
+        "instructions": [
+            "Mix dry ingredients.",
+            "Add wet ingredients.",
+            "Cook on griddle."
+        ],
+        "prepTime": "10 min",
+        "cookTime": "5 min",
+        "servings": 4
+    },
+    {
+        "id": 9,
+        "title": "Margarita Pizza",
+        "ingredients": [
+            "Pizza Dough",
+            "Tomato Sauce",
+            "Mozzarella Cheese",
+            "Basil Leaves",
+            "Olive Oil"
+        ],
+        "instructions": [
+            "Roll out dough.",
+            "Add tomato sauce and cheese.",
+            "Bake.",
+            "Top with basil and drizzle with olive oil."
+        ],
+        "prepTime": "15 min",
+        "cookTime": "15 min",
+        "servings": 4
+    },
+    {
+        "id": 10,
+        "title": "Chicken Parmesan",
+        "ingredients": [
+            "Chicken Breasts",
+            "Breadcrumbs",
+            "Parmesan Cheese",
+            "Eggs",
+            "Flour",
+            "Marinara Sauce",
+            "Mozzarella Cheese",
+            "Olive Oil"
+        ],
+        "instructions": [
+            "Bread chicken with flour, egg, and breadcrumbs.",
+            "Fry chicken.",
+            "Bake with marinara sauce and mozzarella."
+        ],
+        "prepTime": "20 min",
+        "cookTime": "20 min",
+        "servings": 4
+    },
+    {
+        "id": 11,
+        "title": "Tacos",
+        "ingredients": [
+            "Ground Beef",
+            "Taco Seasoning",
+            "Taco Shells",
+            "Lettuce",
+            "Tomatoes",
+            "Cheddar Cheese",
+            "Sour Cream",
+            "Salsa"
+        ],
+        "instructions": [
+            "Cook beef with seasoning.",
+            "Fill taco shells with beef and toppings."
+        ],
+        "prepTime": "15 min",
+        "cookTime": "10 min",
+        "servings": 4
+    },
+    {
+        "id": 12,
+        "title": "Egg Fried Rice",
+        "ingredients": [
+            "Cooked Rice",
+            "Eggs",
+            "Green Onions",
+            "Carrots",
+            "Peas",
+            "Soy Sauce",
+            "Garlic",
+            "Sesame Oil"
+        ],
+        "instructions": [
+            "Scramble eggs.",
+            "Cook vegetables.",
+            "Add rice and soy sauce.",
+            "Mix in scrambled eggs."
+        ],
+        "prepTime": "10 min",
+        "cookTime": "10 min",
+        "servings": 4
+    },
+    {
+        "id": 13,
+        "title": "Lemonade",
+        "ingredients": [
+            "Lemons",
+            "Sugar",
+            "Water"
+        ],
+        "instructions": [
+            "Juice lemons.",
+            "Mix with sugar and water."
+        ],
+        "prepTime": "10 min",
+        "cookTime": "0 min",
+        "servings": 6
+    },
+    {
+        "id": 14,
+        "title": "Beef Tacos",
+        "ingredients": [
+            "Ground Beef",
+            "Taco Seasoning",
+            "Tortillas",
+            "Lettuce",
+            "Tomato",
+            "Cheddar Cheese",
+            "Sour Cream",
+            "Salsa"
+        ],
+        "instructions": [
+            "Cook beef with seasoning.",
+            "Warm tortillas.",
+            "Assemble tacos with beef and toppings."
+        ],
+        "prepTime": "10 min",
+        "cookTime": "15 min",
+        "servings": 4
+    },
+    {
+        "id": 15,
+        "title": "Grilled Cheese Sandwich",
+        "ingredients": [
+            "Bread",
+            "Butter",
+            "Cheddar Cheese"
+        ],
+        "instructions": [
+            "Butter bread.",
+            "Add cheese.",
+            "Grill until golden brown."
+        ],
+        "prepTime": "5 min",
+        "cookTime": "10 min",
+        "servings": 1
+    },
+    {
+        "id": 16,
+        "title": "Lasagna",
+        "ingredients": [
+            "Lasagna Noodles",
+            "Ground Beef",
+            "Marinara Sauce",
+            "Ricotta Cheese",
+            "Mozzarella Cheese",
+            "Parmesan Cheese",
+            "Egg",
+            "Garlic",
+            "Onion",
+            "Olive Oil"
+        ],
+        "instructions": [
+            "Cook noodles.",
+            "Brown beef with garlic and onion.",
+            "Mix ricotta with egg.",
+            "Layer noodles, beef, sauce, and cheeses.",
+            "Bake until bubbly."
+        ],
+        "prepTime": "30 min",
+        "cookTime": "1 hr",
+        "servings": 6
+    },
+    {
+        "id": 17,
+        "title": "Tom Yum Soup",
+        "ingredients": [
+            "Shrimp",
+            "Mushrooms",
+            "Tomatoes",
+            "Lemongrass",
+            "Kaffir Lime Leaves",
+            "Galangal",
+            "Fish Sauce",
+            "Lime Juice",
+            "Chilies",
+            "Cilantro",
+            "Chicken Broth"
+        ],
+        "instructions": [
+            "Boil broth with lemongrass, lime leaves, and galangal.",
+            "Add shrimp, mushrooms, and tomatoes.",
+            "Season with fish sauce, lime juice, and chilies.",
+            "Garnish with cilantro."
+        ],
+        "prepTime": "15 min",
+        "cookTime": "15 min",
+        "servings": 4
+    },
+    {
+        "id": 18,
+        "title": "Apple Pie",
+        "ingredients": [
+            "Apples",
+            "Sugar",
+            "Flour",
+            "Cinnamon",
+            "Nutmeg",
+            "Butter",
+            "Pie Crust"
+        ],
+        "instructions": [
+            "Slice apples.",
+            "Mix with sugar, flour, and spices.",
+            "Fill pie crust with apples.",
+            "Dot with butter.",
+            "Add top crust and bake."
+        ],
+        "prepTime": "30 min",
+        "cookTime": "1 hr",
+        "servings": 8
+    },
+    {
+        "id": 19,
+        "title": "Greek Salad",
+        "ingredients": [
+            "Cucumbers",
+            "Tomatoes",
+            "Red Onion",
+            "Olives",
+            "Feta Cheese",
+            "Olive Oil",
+            "Oregano",
+            "Salt",
+            "Pepper"
+        ],
+        "instructions": [
+            "Chop cucumbers, tomatoes, and onion.",
+            "Mix with olives and feta.",
+            "Drizzle with olive oil.",
+            "Season with oregano, salt, and pepper."
+        ],
+        "prepTime": "10 min",
+        "cookTime": "0 min",
+        "servings": 4
+    },
+    {
+        "id": 20,
+        "title": "Clam Chowder",
+        "ingredients": [
+            "Clams",
+            "Potatoes",
+            "Onion",
+            "Celery",
+            "Bacon",
+            "Butter",
+            "Flour",
+            "Cream",
+            "Chicken Broth",
+            "Thyme",
+            "Salt",
+            "Pepper"
+        ],
+        "instructions": [
+            "Cook bacon.",
+            "Sauté onion and celery in butter.",
+            "Add flour to make a roux.",
+            "Add broth, cream, and potatoes.",
+            "Stir in clams and bacon.",
+            "Season and simmer."
+        ],
+        "prepTime": "20 min",
+        "cookTime": "40 min",
+        "servings": 6
+    },
+    {
+        "id": 21,
+        "title": "Chicken Alfredo",
+        "ingredients": [
+            "Chicken Breast",
+            "Fettuccine",
+            "Heavy Cream",
+            "Parmesan Cheese",
+            "Garlic",
+            "Butter",
+            "Salt",
+            "Pepper",
+            "Parsley"
+        ],
+        "instructions": [
+            "Cook fettuccine.",
+            "Sauté chicken in butter and garlic.",
+            "Add cream and Parmesan.",
+            "Mix with pasta.",
+            "Season and garnish."
+        ],
+        "prepTime": "15 min",
+        "cookTime": "20 min",
+        "servings": 4
+    },
+    {
+        "id": 22,
+        "title": "Beef Stroganoff",
+        "ingredients": [
+            "Beef Sirloin",
+            "Mushrooms",
+            "Onion",
+            "Garlic",
+            "Beef Broth",
+            "Sour Cream",
+            "Dijon Mustard",
+            "Egg Noodles",
+            "Butter",
+            "Flour",
+            "Salt",
+            "Pepper"
+        ],
+        "instructions": [
+            "Cook noodles.",
+            "Sauté beef and set aside.",
+            "Cook mushrooms, onion, and garlic.",
+            "Add broth, mustard, and flour.",
+            "Mix in sour cream and beef.",
+            "Serve over noodles."
+        ],
+        "prepTime": "20 min",
+        "cookTime": "30 min",
+        "servings": 4
+    },
+    {
+        "id": 23,
+        "title": "Shrimp Scampi",
+        "ingredients": [
+            "Shrimp",
+            "Garlic",
+            "Lemon Juice",
+            "White Wine",
+            "Butter",
+            "Olive Oil",
+            "Parsley",
+            "Salt",
+            "Pepper",
+            "Spaghetti"
+        ],
+        "instructions": [
+            "Cook spaghetti.",
+            "Sauté garlic in butter and oil.",
+            "Add shrimp and cook.",
+            "Mix in lemon juice, wine, and parsley.",
+            "Combine with pasta."
+        ],
+        "prepTime": "10 min",
+        "cookTime": "10 min",
+        "servings": 4
+    },
+    {
+        "id": 24,
+        "title": "Minestrone Soup",
+        "ingredients": [
+            "Onion",
+            "Carrots",
+            "Celery",
+            "Zucchini",
+            "Tomatoes",
+            "Cannellini Beans",
+            "Vegetable Broth",
+            "Garlic",
+            "Basil",
+            "Oregano",
+            "Pasta",
+            "Salt",
+            "Pepper"
+        ],
+        "instructions": [
+            "Cook onion, carrots, celery, and garlic.",
+            "Add zucchini and tomatoes.",
+            "Add broth, beans, and herbs.",
+            "Simmer with pasta.",
+            "Season to taste."
+        ],
+        "prepTime": "20 min",
+        "cookTime": "30 min",
+        "servings": 6
+    },
+    {
+        "id": 25,
+        "title": "Tuna Salad",
+        "ingredients": [
+            "Canned Tuna",
+            "Mayonnaise",
+            "Celery",
+            "Onion",
+            "Lemon Juice",
+            "Salt",
+            "Pepper",
+            "Lettuce",
+            "Tomato"
+        ],
+        "instructions": [
+            "Mix tuna, mayonnaise, celery, and onion.",
+            "Season with lemon juice, salt, and pepper.",
+            "Serve on lettuce with tomato."
+        ],
+        "prepTime": "10 min",
+        "cookTime": "0 min",
+        "servings": 4
+    },
+    {
+        "id": 26,
+        "title": "French Toast",
+        "ingredients": [
+            "Bread",
+            "Eggs",
+            "Milk",
+            "Vanilla Extract",
+            "Cinnamon",
+            "Butter",
+            "Maple Syrup"
+        ],
+        "instructions": [
+            "Whisk eggs, milk, vanilla, and cinnamon.",
+            "Dip bread in egg mixture.",
+            "Cook on griddle with butter.",
+            "Serve with maple syrup."
+        ],
+        "prepTime": "10 min",
+        "cookTime": "10 min",
+        "servings": 4
+    },
+    {
+        "id": 27,
+        "title": "Butter Chicken",
+        "ingredients": [
+            "Chicken Breast",
+            "Yogurt",
+            "Tomato Sauce",
+            "Onion",
+            "Garlic",
+            "Ginger",
+            "Garam Masala",
+            "Turmeric",
+            "Cumin",
+            "Coriander",
+            "Butter",
+            "Cream",
+            "Salt",
+            "Pepper"
+        ],
+        "instructions": [
+            "Marinate chicken in yogurt and spices.",
+            "Cook onion, garlic, and ginger.",
+            "Add tomato sauce and spices.",
+            "Add chicken and simmer.",
+            "Mix in cream and butter."
+        ],
+        "prepTime": "30 min",
+        "cookTime": "40 min",
+        "servings": 4
+    },
+    {
+        "id": 28,
+        "title": "Eggplant Parmesan",
+        "ingredients": [
+            "Eggplant",
+            "Breadcrumbs",
+            "Parmesan Cheese",
+            "Eggs",
+            "Flour",
+            "Marinara Sauce",
+            "Mozzarella Cheese",
+            "Olive Oil"
+        ],
+        "instructions": [
+            "Bread eggplant with flour, egg, and breadcrumbs.",
+            "Fry eggplant.",
+            "Bake with marinara sauce and mozzarella."
+        ],
+        "prepTime": "20 min",
+        "cookTime": "20 min",
+        "servings": 4
+    },
+    {
+        "id": 29,
+        "title": "Chicken Fajitas",
+        "ingredients": [
+            "Chicken Breast",
+            "Bell Peppers",
+            "Onion",
+            "Garlic",
+            "Fajita Seasoning",
+            "Olive Oil",
+            "Tortillas",
+            "Sour Cream",
+            "Salsa",
+            "Cheddar Cheese"
+        ],
+        "instructions": [
+            "Slice chicken, peppers, and onion.",
+            "Cook garlic in olive oil.",
+            "Add chicken and seasoning.",
+            "Add vegetables and cook until tender.",
+            "Serve on tortillas with toppings."
+        ],
+        "prepTime": "20 min",
+        "cookTime": "20 min",
+        "servings": 4
+    },
+    {
+        "id": 30,
+        "title": "Chicken Noodle Soup",
+        "ingredients": [
+            "Chicken Breast",
+            "Carrots",
+            "Celery",
+            "Onion",
+            "Garlic",
+            "Egg Noodles",
+            "Chicken Broth",
+            "Thyme",
+            "Parsley",
+            "Salt",
+            "Pepper"
+        ],
+        "instructions": [
+            "Cook chicken and set aside.",
+            "Sauté carrots, celery, onion, and garlic.",
+            "Add broth and noodles.",
+            "Return chicken to pot and season.",
+            "Simmer until noodles are tender."
+        ],
+        "prepTime": "15 min",
+        "cookTime": "30 min",
+        "servings": 6
+    }
+]
